@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Api\\DocumentTypesService.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Api\\DocumentTypesService.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Api\\DocumentTypesService.Api.csproj",
+        "projectName": "DocumentTypesService.Api",
+        "projectPath": "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Api\\DocumentTypesService.Api.csproj",
+        "packagesPath": "C:\\Users\\jhoss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jhoss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Core\\DocumentTypesService.Core.csproj": {
+                "projectPath": "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Core\\DocumentTypesService.Core.csproj"
+              },
+              "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Infraestructure\\DocumentTypesService.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Infraestructure\\DocumentTypesService.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Core\\DocumentTypesService.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Core\\DocumentTypesService.Core.csproj",
+        "projectName": "DocumentTypesService.Core",
+        "projectPath": "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Core\\DocumentTypesService.Core.csproj",
+        "packagesPath": "C:\\Users\\jhoss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jhoss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Infraestructure\\DocumentTypesService.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Infraestructure\\DocumentTypesService.Infraestructure.csproj",
+        "projectName": "DocumentTypesService.Infraestructure",
+        "projectPath": "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Infraestructure\\DocumentTypesService.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\jhoss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jhoss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Core\\DocumentTypesService.Core.csproj": {
+                "projectPath": "C:\\Users\\jhoss\\source\\repos\\InventoryManagementSystemMicroservice\\DocumentTypesService\\DocumentTypesService.Core\\DocumentTypesService.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
