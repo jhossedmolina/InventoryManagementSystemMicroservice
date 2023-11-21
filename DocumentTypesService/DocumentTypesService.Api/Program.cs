@@ -1,13 +1,11 @@
-
-using DocumentTypesService.Core.DTOs;
 using DocumentTypesService.Core.Entities;
 using DocumentTypesService.Core.Interfaces;
+using DocumentTypesService.Core.Services;
 using DocumentTypesService.Infraestructure.Mappings;
 using DocumentTypesService.Infraestructure.Repositories;
 using DocumentTypesService.Infraestructure.Validators;
 using FluentValidation;
 using FluentValidation.AspNetCore;
-using System.Reflection;
 
 namespace DocumentTypesService.Api
 {
@@ -29,6 +27,7 @@ namespace DocumentTypesService.Api
             //builder.Services.AddValidatorsFromAssembly(Assembly.Load("DocumentTypesService.Infraestructure"));
 
             builder.Services.AddSingleton<IDocumentTypeRepository, DocumentTypeRepository>();
+            builder.Services.AddScoped<IDocumentTypeService, DocumentTypeService>();
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

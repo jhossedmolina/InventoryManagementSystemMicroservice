@@ -13,7 +13,7 @@ namespace DocumentTypesService.Infraestructure.Validators
 
             RuleFor(dc => dc.Name)
                 .NotEmpty()
-                .Length(5, 20);
+                .Length(5, 30);
         }
     }
 }
