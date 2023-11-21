@@ -1,0 +1,13 @@
+C:\Users\jhoss\source\repos\InventoryManagementSystemMicroservice\DocumentTypesService\DocumentTypesService.Core\bin\Debug\net8.0\DocumentTypesService.Core.deps.json
+C:\Users\jhoss\source\repos\InventoryManagementSystemMicroservice\DocumentTypesService\DocumentTypesService.Core\bin\Debug\net8.0\DocumentTypesService.Core.dll
+C:\Users\jhoss\source\repos\InventoryManagementSystemMicroservice\DocumentTypesService\DocumentTypesService.Core\bin\Debug\net8.0\DocumentTypesService.Core.pdb
+C:\Users\jhoss\source\repos\InventoryManagementSystemMicroservice\DocumentTypesService\DocumentTypesService.Core\obj\Debug\net8.0\DocumentTypesService.Core.csproj.AssemblyReference.cache
+C:\Users\jhoss\source\repos\InventoryManagementSystemMicroservice\DocumentTypesService\DocumentTypesService.Core\obj\Debug\net8.0\DocumentTypesService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoss\source\repos\InventoryManagementSystemMicroservice\DocumentTypesService\DocumentTypesService.Core\obj\Debug\net8.0\DocumentTypesService.Core.AssemblyInfoInputs.cache
+C:\Users\jhoss\source\repos\InventoryManagementSystemMicroservice\DocumentTypesService\DocumentTypesService.Core\obj\Debug\net8.0\DocumentTypesService.Core.AssemblyInfo.cs
+C:\Users\jhoss\source\repos\InventoryManagementSystemMicroservice\DocumentTypesService\DocumentTypesService.Core\obj\Debug\net8.0\DocumentTypesService.Core.csproj.CoreCompileInputs.cache
+C:\Users\jhoss\source\repos\InventoryManagementSystemMicroservice\DocumentTypesService\DocumentTypesService.Core\obj\Debug\net8.0\DocumentTypesService.Core.sourcelink.json
+C:\Users\jhoss\source\repos\InventoryManagementSystemMicroservice\DocumentTypesService\DocumentTypesService.Core\obj\Debug\net8.0\DocumentTypesService.Core.dll
+C:\Users\jhoss\source\repos\InventoryManagementSystemMicroservice\DocumentTypesService\DocumentTypesService.Core\obj\Debug\net8.0\refint\DocumentTypesService.Core.dll
+C:\Users\jhoss\source\repos\InventoryManagementSystemMicroservice\DocumentTypesService\DocumentTypesService.Core\obj\Debug\net8.0\DocumentTypesService.Core.pdb
+C:\Users\jhoss\source\repos\InventoryManagementSystemMicroservice\DocumentTypesService\DocumentTypesService.Core\obj\Debug\net8.0\ref\DocumentTypesService.Core.dll

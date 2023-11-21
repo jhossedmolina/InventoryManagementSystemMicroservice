@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CLZiHBLUPhxpHwey4n1H8yRXoYIF9MxdKu+121wGz3I=",
+  "Source": "DocumentTypesService.Api",
+  "BasePath": "_content/DocumentTypesService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

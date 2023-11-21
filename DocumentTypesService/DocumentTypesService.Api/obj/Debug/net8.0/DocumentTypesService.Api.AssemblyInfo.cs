@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DocumentTypesService.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49dd154a0af17b26e0dccfb58c7c84f2b095472f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DocumentTypesService.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DocumentTypesService.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
